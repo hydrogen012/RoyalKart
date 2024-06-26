@@ -17,7 +17,7 @@
     width:105px;
   }
  .logo {
-    background-image: url("RoyalkartLogo1.png");
+    background-image: url("images/RoyalkartLogo1.png");
     background-size: cover;
     height: 30px;
     margin-top: 8px;
@@ -222,7 +222,7 @@ span{
 /**Hero-Section**/
 
 .hero-section{
-    background-image: url("hero_image.jpg");
+    background-image: url("images/hero_image.jpg");
     background-size: cover;
     height: 350px;
   display: flex;
@@ -386,7 +386,7 @@ span{
    
 }
 .secondhero-section {
-    background-image: url("hero_image.jpg");
+    background-image: url("images/hero_image.jpg");
     background-size: cover;
     height: 350px;
   display: flex;
